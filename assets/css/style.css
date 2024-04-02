@@ -120,12 +120,12 @@ h1 {
   text-transform: capitalize;
 }
 
-.days-forecast h2 {
+.days-concert h2 {
   margin: 20px 0;
   font-size: 1.5rem;
 }
 
-.days-forecast .concert-cards {
+.days-concert .concert-cards {
   display: flex;
   gap: 20px;
 }
