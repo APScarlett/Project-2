@@ -192,3 +192,8 @@ h1 {
     font-size: 1.35rem;
   }
 }
+
+/* Define a CSS class for big text */
+.big-text {
+  font-size: 20px;
+}
